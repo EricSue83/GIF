@@ -1,0 +1,2 @@
+# GIF
+![image](https://github.com/EricSue83/GIF/blob/master/SplashAdvertise2.gif)
